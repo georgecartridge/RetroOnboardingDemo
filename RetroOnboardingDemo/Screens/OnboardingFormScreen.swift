@@ -76,7 +76,7 @@ struct OnboardingFormScreen: View {
             )
         ],
         isPresented: $isPresented,
-        image: "star",
+        image: "torus-1",
         namespace: namespace
     )
 }
